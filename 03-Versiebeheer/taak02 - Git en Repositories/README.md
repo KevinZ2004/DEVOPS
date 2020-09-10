@@ -43,4 +43,4 @@ Als je een bepaalde versie van de bestanden in een project opslaat in je lokale 
 
 Je hebt de repository die bij deze module hoort als map open staan in VS Code. Bij het Source-Control-icon op de Activity-Bar is een cijfer te zien dat aangeeft dat er veranderingen zijn.
 
-## Bronnen
+        ## Bronnen
